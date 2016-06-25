@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+    
+    <entry>
+      <title><![CDATA[日常会商图片]]></title>
+      <url>http://www.eliujiping.com/daily-pictures.html</url>
+      <content type="html"><![CDATA[<h2 id="地电">地电</h2>
+<h3 id="地电阻率">地电阻率</h3>
+<div class="figure">
+<img src="/images/DCDD_20160622_res.png" title="2015年5-7月受钻孔施工影响，数据起伏变化很大">
+
+</div>
+<h3 id="地电阻率均方差">地电阻率均方差</h3>
+<div class="figure">
+<img src="/images/DCDD_20160622_error.png">
+
+</div>
+<h3 id="自然电位差">自然电位差</h3>
+<div class="figure">
+<img src="/images/DCDD_20160622_potential.png">
+
+</div>
+<h2 id="地电场">地电场</h2>
+<h3 id="长极距">长极距</h3>
+<div class="figure">
+<img src="/images/DCDD_20160622_elec_l.png">
+
+</div>
+<h3 id="短极距">短极距</h3>
+<div class="figure">
+<img src="/images/DCDD_20160622_elec_s.png">
+
+</div>
+<h2 id="地磁">地磁</h2>
+<h3 id="肇庆地磁">肇庆地磁</h3>
+<div class="figure">
+<img src="/images/DCDC_20160623_zhq_mag.png">
+
+</div>
+<h3 id="新丰江地磁">新丰江地磁</h3>
+<div class="figure">
+<img src="/images/DCDC_20160623_xfj_mag.png">
+
+</div>
+<h3 id="地磁加卸载响应比">地磁加卸载响应比</h3>
+<div class="figure">
+<img src="/images/DCDC_20160223_lurr.png">
+
+</div>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[有关本博客的纪事]]></title>
+      <url>http://www.eliujiping.com/my-first-blog.html</url>
+      <content type="html"><![CDATA[<h2 id="基本情况">基本情况</h2>
+<p>这是一个使用<a href="http://www.markdown.cn/" target="_blank" rel="external">markdown</a>语法编写、托管在<a href="https://github.com/" target="_blank" rel="external">GitHub</a>上、使用<a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>渲染、使用<a href="http://theme-next.iissnan.com/" target="_blank" rel="external">Next</a>为主题的个人静态博客，全部工作在<a href="https://www.centos.org/" target="_blank" rel="external">CentOS7</a>系统下完成。</p>
+<h2 id="完成历程">完成历程</h2>
+<ol style="list-style-type: decimal">
+<li>公元2016年6月17日，周五，开始网上阅读文档，学习如何使用github和hexo搭建个人博客。</li>
+</ol>
+<blockquote>
+<ul>
+<li>在<a href="www.github.com">github</a>上申请可账户以托管代码；</li>
+<li>在<a href="www.godaddy.com">godaddy</a>上申请了账户，购买域名；</li>
+<li>在<a href="www.dnspod.com">dnspod</a>上申请了账户，用于域名解析；</li>
+</ul>
+</blockquote>
+<ol start="2" style="list-style-type: decimal">
+<li><p>公元2016年6月18日，周六，简单学习了hexo的使用。</p></li>
+<li><p>公元2016年6月19日，周日，学习了git的使用，其实将来要团队协同工作，这是很重要的东西。</p></li>
+<li><p>公元2016年6月20日，周一，实现域名解析成功，可访问。</p></li>
+<li><p>公元2016年6月21日，周二，fork别人的例子，并下载别人成熟的博客代码进行学习、练习。</p></li>
+<li><p>公元2016年6月22日，周三，确定主题为next。在<a href="www.duoshuo.com">多说</a>注册账户，用于插入评论框。</p></li>
+<li><p>公元2016年6月23日，周四，准备使用Retext作为linux下的markdown编辑器，但无法输入中文，作罢。</p></li>
+<li><p>公元2016年6月24日，周五，在<a href="https://www.zybuluo.com/mdeditor" target="_blank" rel="external">作业部落</a>注册账户，准备作为markdown的编辑器，但很不方便，需要有网络的情况下才能使用。微调，虽然很多工作没有完成，但不想再花时间去完善和内容没多大关系的东西。</p></li>
+</ol>
+<h2 id="未来发展">未来发展</h2>
+<p>不定期更新，域名到期后可能不在续费。</p>
+]]></content>
+    </entry>
+    
+  
+  
+    
+    <entry>
+      <title><![CDATA[404 Not Found]]></title>
+      <url>http://www.eliujiping.com/404.html</url>
+      <content type="html"><![CDATA[<style type="text/css">
+.posts-expand .post-title {
+    font-size: 35px;
+    padding-bottom: 20px;
+}
+</style>
+<header class="poster-header">
+<h1 class="post-title" itemprop="name headline">
+404 Not Found
+</h1>
+</header>
+<div class="post-body" itemprop="articleBody">
+<script type="text/javascript">
+var max = 5;
+var random = Math.floor(Math.random() * max) + 1;
+var picture = random + ".jpg";
+document.write('<img class=none src="/images/404/' + picture + '"width=400px>');
+</script>
+</div>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[About]]></title>
+      <url>http://www.eliujiping.com/about.html</url>
+      <content type="html"><![CDATA[<h2 id="关于本人">关于本人</h2>
+<p>我叫刘吉平，从事地震预报的工作。</p>
+<h2 id="关于博客">关于博客</h2>
+<ol style="list-style-type: decimal">
+<li>坚持原创</li>
+<li>坚持简单</li>
+</ol>
+<h2 id="联系方式">联系方式</h2>
+<ul>
+<li><a href="www.eliujiping.com">博客</a></li>
+<li>E-mail: jipingliu@163.com</li>
+</ul>
+]]></content>
+    </entry>
+    
+  
+</search>

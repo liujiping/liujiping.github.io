@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>钻石眼泪</title>
+  <subtitle>刘吉平的个人博客</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://www.eliujiping.com/"/>
+  <updated>2016-06-25T07:18:26.501Z</updated>
+  <id>http://www.eliujiping.com/</id>
+  
+  <author>
+    <name>Diamond</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>日常会商图片</title>
+    <link href="http://www.eliujiping.com/daily-pictures.html"/>
+    <id>http://www.eliujiping.com/daily-pictures.html</id>
+    <published>2016-06-24T11:17:15.000Z</published>
+    <updated>2016-06-25T07:18:26.501Z</updated>
+    
+    <content type="html">&lt;h2 id=&quot;地电&quot;&gt;地电&lt;/h2&gt;
+&lt;h3 id=&quot;地电阻率&quot;&gt;地电阻率&lt;/h3&gt;
+&lt;div class=&quot;figure&quot;&gt;
+&lt;img src=&quot;/images/DCDD_20160622_res.png&quot; title=&quot;2015年5-7月受钻孔施工影响，数据起伏变化很大&quot;&gt;
+
+&lt;/div&gt;
+&lt;h3 id=&quot;地电阻率均方差&quot;&gt;地电阻率均方差&lt;/h3&gt;
+&lt;div class=&quot;figure&quot;&gt;
+&lt;img src=&quot;/images/DCDD_20160622_error.png&quot;&gt;
+
+&lt;/div&gt;
+&lt;h3 id=&quot;自然电位差&quot;&gt;自然电位差&lt;/h3&gt;
+&lt;div class=&quot;figure&quot;&gt;
+&lt;img src=&quot;/images/DCDD_20160622_potential.png&quot;&gt;
+
+&lt;/div&gt;
+&lt;h2 id=&quot;地电场&quot;&gt;地电场&lt;/h2&gt;
+&lt;h3 id=&quot;长极距&quot;&gt;长极距&lt;/h3&gt;
+&lt;div class=&quot;figure&quot;&gt;
+&lt;img src=&quot;/images/DCDD_20160622_elec_l.png&quot;&gt;
+
+&lt;/div&gt;
+&lt;h3 id=&quot;短极距&quot;&gt;短极距&lt;/h3&gt;
+&lt;div class=&quot;figure&quot;&gt;
+&lt;img src=&quot;/images/DCDD_20160622_elec_s.png&quot;&gt;
+
+&lt;/div&gt;
+&lt;h2 id=&quot;地磁&quot;&gt;地磁&lt;/h2&gt;
+&lt;h3 id=&quot;肇庆地磁&quot;&gt;肇庆地磁&lt;/h3&gt;
+&lt;div class=&quot;figure&quot;&gt;
+&lt;img src=&quot;/images/DCDC_20160623_zhq_mag.png&quot;&gt;
+
+&lt;/div&gt;
+&lt;h3 id=&quot;新丰江地磁&quot;&gt;新丰江地磁&lt;/h3&gt;
+&lt;div class=&quot;figure&quot;&gt;
+&lt;img src=&quot;/images/DCDC_20160623_xfj_mag.png&quot;&gt;
+
+&lt;/div&gt;
+&lt;h3 id=&quot;地磁加卸载响应比&quot;&gt;地磁加卸载响应比&lt;/h3&gt;
+&lt;div class=&quot;figure&quot;&gt;
+&lt;img src=&quot;/images/DCDC_20160223_lurr.png&quot;&gt;
+
+&lt;/div&gt;
+</content>
+    
+    <summary type="html">
+    
+      每次会商后上传更新的图片
+    
+    </summary>
+    
+      <category term="日常工作" scheme="http://www.eliujiping.com/categories/%E6%97%A5%E5%B8%B8%E5%B7%A5%E4%BD%9C/"/>
+    
+    
+      <category term="pictures" scheme="http://www.eliujiping.com/tags/pictures/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>有关本博客的纪事</title>
+    <link href="http://www.eliujiping.com/my-first-blog.html"/>
+    <id>http://www.eliujiping.com/my-first-blog.html</id>
+    <published>2016-06-19T16:00:00.000Z</published>
+    <updated>2016-06-25T07:17:28.213Z</updated>
+    
+    <content type="html">&lt;h2 id=&quot;基本情况&quot;&gt;基本情况&lt;/h2&gt;
+&lt;p&gt;这是一个使用&lt;a href=&quot;http://www.markdown.cn/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;markdown&lt;/a&gt;语法编写、托管在&lt;a href=&quot;https://github.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitHub&lt;/a&gt;上、使用&lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;渲染、使用&lt;a href=&quot;http://theme-next.iissnan.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Next&lt;/a&gt;为主题的个人静态博客，全部工作在&lt;a href=&quot;https://www.centos.org/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;CentOS7&lt;/a&gt;系统下完成。&lt;/p&gt;
+&lt;h2 id=&quot;完成历程&quot;&gt;完成历程&lt;/h2&gt;
+&lt;ol style=&quot;list-style-type: decimal&quot;&gt;
+&lt;li&gt;公元2016年6月17日，周五，开始网上阅读文档，学习如何使用github和hexo搭建个人博客。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;在&lt;a href=&quot;www.github.com&quot;&gt;github&lt;/a&gt;上申请可账户以托管代码；&lt;/li&gt;
+&lt;li&gt;在&lt;a href=&quot;www.godaddy.com&quot;&gt;godaddy&lt;/a&gt;上申请了账户，购买域名；&lt;/li&gt;
+&lt;li&gt;在&lt;a href=&quot;www.dnspod.com&quot;&gt;dnspod&lt;/a&gt;上申请了账户，用于域名解析；&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;ol start=&quot;2&quot; style=&quot;list-style-type: decimal&quot;&gt;
+&lt;li&gt;&lt;p&gt;公元2016年6月18日，周六，简单学习了hexo的使用。&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;公元2016年6月19日，周日，学习了git的使用，其实将来要团队协同工作，这是很重要的东西。&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;公元2016年6月20日，周一，实现域名解析成功，可访问。&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;公元2016年6月21日，周二，fork别人的例子，并下载别人成熟的博客代码进行学习、练习。&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;公元2016年6月22日，周三，确定主题为next。在&lt;a href=&quot;www.duoshuo.com&quot;&gt;多说&lt;/a&gt;注册账户，用于插入评论框。&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;公元2016年6月23日，周四，准备使用Retext作为linux下的markdown编辑器，但无法输入中文，作罢。&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;公元2016年6月24日，周五，在&lt;a href=&quot;https://www.zybuluo.com/mdeditor&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;作业部落&lt;/a&gt;注册账户，准备作为markdown的编辑器，但很不方便，需要有网络的情况下才能使用。微调，虽然很多工作没有完成，但不想再花时间去完善和内容没多大关系的东西。&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;未来发展&quot;&gt;未来发展&lt;/h2&gt;
+&lt;p&gt;不定期更新，域名到期后可能不在续费。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      本文介绍了博客的搭建情况和过程
+    
+    </summary>
+    
+      <category term="生活札记" scheme="http://www.eliujiping.com/categories/%E7%94%9F%E6%B4%BB%E6%9C%AD%E8%AE%B0/"/>
+    
+    
+      <category term="markdown,hexo,Github,CentOS7" scheme="http://www.eliujiping.com/tags/markdown-hexo-Github-CentOS7/"/>
+    
+  </entry>
+  
+</feed>
